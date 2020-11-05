@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EB003AC52553A3C40052C03B /* libmalloc-140.40.1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "libmalloc-140.40.1"; sourceTree = "<group>"; };
+		EB003AC62553A3CB0052C03B /* objc4-723 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "objc4-723"; sourceTree = "<group>"; };
+		EB003BE82553A43D0052C03B /* glibc-2.27 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "glibc-2.27"; sourceTree = "<group>"; };
+		EB003BE92553A43D0052C03B /* CF-1153.18 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CF-1153.18"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EB0039A32553A3980052C03B = {
+			isa = PBXGroup;
+			children = (
+				EB003BE92553A43D0052C03B /* CF-1153.18 */,
+				EB003BE82553A43D0052C03B /* glibc-2.27 */,
+				EB003AC62553A3CB0052C03B /* objc4-723 */,
+				EB003AC52553A3C40052C03B /* libmalloc-140.40.1 */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EB0039A42553A3980052C03B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1210;
+			};
+			buildConfigurationList = EB0039A72553A3980052C03B /* Build configuration list for PBXProject "SourceForiOS" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EB0039A32553A3980052C03B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EB0039A82553A3980052C03B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		EB0039A92553A3980052C03B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EB0039A72553A3980052C03B /* Build configuration list for PBXProject "SourceForiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB0039A82553A3980052C03B /* Debug */,
+				EB0039A92553A3980052C03B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EB0039A42553A3980052C03B /* Project object */;
+}
