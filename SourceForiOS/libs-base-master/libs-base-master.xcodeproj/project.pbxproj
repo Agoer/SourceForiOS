@@ -1,0 +1,274 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		EB003C5E2553A8AE0052C03B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EB003C542553A8AE0052C03B /* base.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 18394B1C1610D8E300335E85;
+			remoteInfo = Foundation;
+		};
+		EB003C602553A8AE0052C03B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EB003C542553A8AE0052C03B /* base.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1837DA191652D18400197E53;
+			remoteInfo = gdnc;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EB003C2D2553A8AE0052C03B /* NSCharacterSets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = NSCharacterSets; sourceTree = "<group>"; };
+		EB003C2E2553A8AE0052C03B /* GNUmakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = GNUmakefile; sourceTree = "<group>"; };
+		EB003C2F2553A8AE0052C03B /* Documentation */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Documentation; sourceTree = "<group>"; };
+		EB003C302553A8AE0052C03B /* README.initialize */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.initialize; sourceTree = "<group>"; };
+		EB003C312553A8AE0052C03B /* standalone.conf */ = {isa = PBXFileReference; lastKnownFileType = text; path = standalone.conf; sourceTree = "<group>"; };
+		EB003C322553A8AE0052C03B /* configure.ac */ = {isa = PBXFileReference; lastKnownFileType = text; path = configure.ac; sourceTree = "<group>"; };
+		EB003C332553A8AE0052C03B /* Tools */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Tools; sourceTree = "<group>"; };
+		EB003C342553A8AE0052C03B /* INSTALL */ = {isa = PBXFileReference; lastKnownFileType = text; path = INSTALL; sourceTree = "<group>"; };
+		EB003C352553A8AE0052C03B /* ANNOUNCE */ = {isa = PBXFileReference; lastKnownFileType = text; path = ANNOUNCE; sourceTree = "<group>"; };
+		EB003C362553A8AE0052C03B /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = .DS_Store; sourceTree = "<group>"; };
+		EB003C372553A8AE0052C03B /* configure */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = configure; sourceTree = "<group>"; };
+		EB003C382553A8AE0052C03B /* ChangeLog */ = {isa = PBXFileReference; lastKnownFileType = text; path = ChangeLog; sourceTree = "<group>"; };
+		EB003C392553A8AE0052C03B /* ChangeLog.2 */ = {isa = PBXFileReference; lastKnownFileType = text; path = ChangeLog.2; sourceTree = "<group>"; };
+		EB003C3A2553A8AE0052C03B /* config */ = {isa = PBXFileReference; lastKnownFileType = folder; path = config; sourceTree = "<group>"; };
+		EB003C3B2553A8AE0052C03B /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		EB003C3C2553A8AE0052C03B /* CODEOWNERS */ = {isa = PBXFileReference; lastKnownFileType = text; path = CODEOWNERS; sourceTree = "<group>"; };
+		EB003C3D2553A8AE0052C03B /* install.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = install.sh; sourceTree = "<group>"; };
+		EB003C3E2553A8AE0052C03B /* base.make.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = base.make.in; sourceTree = "<group>"; };
+		EB003C3F2553A8AE0052C03B /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
+		EB003C402553A8AE0052C03B /* Source */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Source; sourceTree = "<group>"; };
+		EB003C412553A8AE0052C03B /* cross.config */ = {isa = PBXFileReference; lastKnownFileType = text; path = cross.config; sourceTree = "<group>"; };
+		EB003C422553A8AE0052C03B /* Tests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Tests; sourceTree = "<group>"; };
+		EB003C432553A8AE0052C03B /* gnustep-base.spec.old */ = {isa = PBXFileReference; lastKnownFileType = text; path = "gnustep-base.spec.old"; sourceTree = "<group>"; };
+		EB003C442553A8AE0052C03B /* gnustep-base.spec.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = "gnustep-base.spec.in"; sourceTree = "<group>"; };
+		EB003C452553A8AE0052C03B /* MISSING */ = {isa = PBXFileReference; lastKnownFileType = text; path = MISSING; sourceTree = "<group>"; };
+		EB003C462553A8AE0052C03B /* Makefile.postamble */ = {isa = PBXFileReference; lastKnownFileType = text; path = Makefile.postamble; sourceTree = "<group>"; };
+		EB003C472553A8AE0052C03B /* README */ = {isa = PBXFileReference; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		EB003C482553A8AE0052C03B /* COPYING.LIB */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYING.LIB; sourceTree = "<group>"; };
+		EB003C492553A8AE0052C03B /* COPYING */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
+		EB003C4A2553A8AE0052C03B /* NEWS */ = {isa = PBXFileReference; lastKnownFileType = text; path = NEWS; sourceTree = "<group>"; };
+		EB003C4B2553A8AE0052C03B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		EB003C4C2553A8AE0052C03B /* Support */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Support; sourceTree = "<group>"; };
+		EB003C4D2553A8AE0052C03B /* Version */ = {isa = PBXFileReference; lastKnownFileType = text; path = Version; sourceTree = "<group>"; };
+		EB003C4E2553A8AE0052C03B /* Headers */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Headers; sourceTree = "<group>"; };
+		EB003C4F2553A8AE0052C03B /* macosx */ = {isa = PBXFileReference; lastKnownFileType = folder; path = macosx; sourceTree = "<group>"; };
+		EB003C502553A8AE0052C03B /* Examples */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Examples; sourceTree = "<group>"; };
+		EB003C512553A8AE0052C03B /* travis-deps.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "travis-deps.sh"; sourceTree = "<group>"; };
+		EB003C522553A8AE0052C03B /* ChangeLog.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = ChangeLog.1; sourceTree = "<group>"; };
+		EB003C532553A8AE0052C03B /* config.mak.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = config.mak.in; sourceTree = "<group>"; };
+		EB003C542553A8AE0052C03B /* base.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = base.xcodeproj; sourceTree = "<group>"; };
+		EB003C572553A8AE0052C03B /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
+		EB003C582553A8AE0052C03B /* NSTimeZones */ = {isa = PBXFileReference; lastKnownFileType = folder; path = NSTimeZones; sourceTree = "<group>"; };
+		EB003C592553A8AE0052C03B /* .cvsignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .cvsignore; sourceTree = "<group>"; };
+		EB003C5A2553A8AE0052C03B /* gnustep-base.script.spec.in */ = {isa = PBXFileReference; lastKnownFileType = text; path = "gnustep-base.script.spec.in"; sourceTree = "<group>"; };
+		EB003C5B2553A8AE0052C03B /* COPYINGv3 */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYINGv3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EB003C272553A8AE0052C03B = {
+			isa = PBXGroup;
+			children = (
+				EB003C2D2553A8AE0052C03B /* NSCharacterSets */,
+				EB003C2E2553A8AE0052C03B /* GNUmakefile */,
+				EB003C2F2553A8AE0052C03B /* Documentation */,
+				EB003C302553A8AE0052C03B /* README.initialize */,
+				EB003C312553A8AE0052C03B /* standalone.conf */,
+				EB003C322553A8AE0052C03B /* configure.ac */,
+				EB003C332553A8AE0052C03B /* Tools */,
+				EB003C342553A8AE0052C03B /* INSTALL */,
+				EB003C352553A8AE0052C03B /* ANNOUNCE */,
+				EB003C362553A8AE0052C03B /* .DS_Store */,
+				EB003C372553A8AE0052C03B /* configure */,
+				EB003C382553A8AE0052C03B /* ChangeLog */,
+				EB003C392553A8AE0052C03B /* ChangeLog.2 */,
+				EB003C3A2553A8AE0052C03B /* config */,
+				EB003C3B2553A8AE0052C03B /* Makefile */,
+				EB003C3C2553A8AE0052C03B /* CODEOWNERS */,
+				EB003C3D2553A8AE0052C03B /* install.sh */,
+				EB003C3E2553A8AE0052C03B /* base.make.in */,
+				EB003C3F2553A8AE0052C03B /* Resources */,
+				EB003C402553A8AE0052C03B /* Source */,
+				EB003C412553A8AE0052C03B /* cross.config */,
+				EB003C422553A8AE0052C03B /* Tests */,
+				EB003C432553A8AE0052C03B /* gnustep-base.spec.old */,
+				EB003C442553A8AE0052C03B /* gnustep-base.spec.in */,
+				EB003C452553A8AE0052C03B /* MISSING */,
+				EB003C462553A8AE0052C03B /* Makefile.postamble */,
+				EB003C472553A8AE0052C03B /* README */,
+				EB003C482553A8AE0052C03B /* COPYING.LIB */,
+				EB003C492553A8AE0052C03B /* COPYING */,
+				EB003C4A2553A8AE0052C03B /* NEWS */,
+				EB003C4B2553A8AE0052C03B /* .gitignore */,
+				EB003C4C2553A8AE0052C03B /* Support */,
+				EB003C4D2553A8AE0052C03B /* Version */,
+				EB003C4E2553A8AE0052C03B /* Headers */,
+				EB003C4F2553A8AE0052C03B /* macosx */,
+				EB003C502553A8AE0052C03B /* Examples */,
+				EB003C512553A8AE0052C03B /* travis-deps.sh */,
+				EB003C522553A8AE0052C03B /* ChangeLog.1 */,
+				EB003C532553A8AE0052C03B /* config.mak.in */,
+				EB003C542553A8AE0052C03B /* base.xcodeproj */,
+				EB003C572553A8AE0052C03B /* .travis.yml */,
+				EB003C582553A8AE0052C03B /* NSTimeZones */,
+				EB003C592553A8AE0052C03B /* .cvsignore */,
+				EB003C5A2553A8AE0052C03B /* gnustep-base.script.spec.in */,
+				EB003C5B2553A8AE0052C03B /* COPYINGv3 */,
+			);
+			sourceTree = "<group>";
+		};
+		EB003C552553A8AE0052C03B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EB003C5F2553A8AE0052C03B /* Foundation.framework */,
+				EB003C612553A8AE0052C03B /* gdnc */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		EB003C2C2553A8AE0052C03B /* libs-base-master */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = EB003C622553A8AE0052C03B /* Build configuration list for PBXLegacyTarget "libs-base-master" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/chinadev/Documents/GitHub/SourceForiOS/SourceForiOS/libs-base-master";
+			dependencies = (
+			);
+			name = "libs-base-master";
+			passBuildSettingsInEnvironment = 1;
+			productName = "libs-base-master";
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		EB003C282553A8AE0052C03B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+			};
+			buildConfigurationList = EB003C2B2553A8AE0052C03B /* Build configuration list for PBXProject "libs-base-master" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EB003C272553A8AE0052C03B;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = EB003C552553A8AE0052C03B /* Products */;
+					ProjectRef = EB003C542553A8AE0052C03B /* base.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				EB003C2C2553A8AE0052C03B /* libs-base-master */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		EB003C5F2553A8AE0052C03B /* Foundation.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Foundation.framework;
+			remoteRef = EB003C5E2553A8AE0052C03B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		EB003C612553A8AE0052C03B /* gdnc */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = gdnc;
+			remoteRef = EB003C602553A8AE0052C03B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin XCBuildConfiguration section */
+		EB003C292553A8AE0052C03B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		EB003C2A2553A8AE0052C03B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		EB003C632553A8AE0052C03B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "libs-base-master";
+			};
+			name = Debug;
+		};
+		EB003C642553A8AE0052C03B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "libs-base-master";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EB003C2B2553A8AE0052C03B /* Build configuration list for PBXProject "libs-base-master" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB003C292553A8AE0052C03B /* Debug */,
+				EB003C2A2553A8AE0052C03B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EB003C622553A8AE0052C03B /* Build configuration list for PBXLegacyTarget "libs-base-master" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EB003C632553A8AE0052C03B /* Debug */,
+				EB003C642553A8AE0052C03B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EB003C282553A8AE0052C03B /* Project object */;
+}

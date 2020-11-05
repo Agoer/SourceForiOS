@@ -11,12 +11,16 @@
 		EB003AC62553A3CB0052C03B /* objc4-723 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "objc4-723"; sourceTree = "<group>"; };
 		EB003BE82553A43D0052C03B /* glibc-2.27 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "glibc-2.27"; sourceTree = "<group>"; };
 		EB003BE92553A43D0052C03B /* CF-1153.18 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CF-1153.18"; sourceTree = "<group>"; };
+		EB003C262553A78A0052C03B /* gnustep-base-1.26.0 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "gnustep-base-1.26.0"; sourceTree = "<group>"; };
+		EB003C652553A8AE0052C03B /* libs-base-master */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "libs-base-master"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		EB0039A32553A3980052C03B = {
 			isa = PBXGroup;
 			children = (
+				EB003C652553A8AE0052C03B /* libs-base-master */,
+				EB003C262553A78A0052C03B /* gnustep-base-1.26.0 */,
 				EB003BE92553A43D0052C03B /* CF-1153.18 */,
 				EB003BE82553A43D0052C03B /* glibc-2.27 */,
 				EB003AC62553A3CB0052C03B /* objc4-723 */,
